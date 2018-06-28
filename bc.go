@@ -1,4 +1,4 @@
-package bc
+package bc // import "blainsmith.com/go/baconian-cipher"
 
 import "strings"
 
